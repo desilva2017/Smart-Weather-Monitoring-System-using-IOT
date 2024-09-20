@@ -11,9 +11,9 @@ To guide this research, we have established the following key research questions
 3. How does the incorporation of historical weather data alongside real-time data enhance the accuracy of weather predictions?
 
 # Objectives 
- Gather environmental data, including temperature, humidity, and rainfall, and transmit it to the Blynk platform for real-time visualization. 
- Analyze both real-time and historical data to identify trends and make accurate future weather predictions, ultimately supporting informed decision-making. 
- Enable users to access and manage their weather monitoring system via the Blynk mobile app, allowing for alerts and notifications based on specific weather conditions.
+1. Gather environmental data, including temperature, humidity, and rainfall, and transmit it to the Blynk platform for real-time visualization.
+2. Analyze both real-time and historical data to identify trends and make accurate future weather predictions, ultimately supporting informed decision-making.
+3. Enable users to access and manage their weather monitoring system via the Blynk mobile app, allowing for alerts and notifications based on specific weather conditions.
 
 # Methods
 The project uses a combination of hardware and software components to achieve thes objectives. Environmental data is collected via the DHT11 and raindrop sensors, and the DHT11 microcontroller functions as the central processing unit. User engagement and data visualization are made easier with the Blynk app. In order to guarantee the precision and dependability of the data gathered, the project will also comprise testing and validation stages.
@@ -35,19 +35,19 @@ For the purpose of creating a dependable and easy-to-use weather monitoring syst
 
 # Results and Discussion
 Data Analysis:
-Real-time data was successfully transmitted via Blynk.
-Historical data from Power BI allowed insights into weather patterns and future predictions.
-The system was designed for effortless use by individuals with limited technical skills, ensuring accessibility and ease of use.
+1. Real-time data was successfully transmitted via Blynk.
+2. Historical data from Power BI allowed insights into weather patterns and future predictions.
+3. The system was designed for effortless use by individuals with limited technical skills, ensuring accessibility and ease of use.
 
 Critical Evaluations:
 System performed well in real-time monitoring but requires LoRa for better performance in remote areas.
 DHT11 sensor showed slower response times; more accurate sensors are recommended for future iterations.
 
 # Deliverable Outcome
-Fully functioning IoT weather monitoring system.
-Real-time and historical data analysis platform.
-Notifications and alerts system (Blynk app & email).
-System designed for easy use by individuals with limited technical skills, ensuring accessibility.
+1. Fully functioning IoT weather monitoring system.
+2. Real-time and historical data analysis platform.
+3. Notifications and alerts system (Blynk app & email).
+4. System designed for easy use by individuals with limited technical skills, ensuring accessibility.
 
 
 
