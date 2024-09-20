@@ -31,7 +31,7 @@ For the purpose of creating a dependable and easy-to-use weather monitoring syst
 
 # Circuit-Diagram
 
-![Circuit-Diagram](https://github.com/user-attachments/assets/5afe67d0-9c2c-47f5-9b5c-584867b17b6e)
+![Circuit-Diagram](https://github.com/user-attachments/assets/8f071d26-a894-40a4-acf4-1ef270e3a9ec)
 
 # Results and Discussion
 Data Analysis:
